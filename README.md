@@ -1,12 +1,40 @@
 # 👋 Olá, eu sou Guilherme Ramos!
 
 <div align="center">
-  <a href="https://github.com/EachGuilherme">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=EachGuilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  </a>
-  <a href="https://github.com/EachGuilherme">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EachGuilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  </a>
+
+  <table>
+    <tr>
+      <!-- Coluna Esquerda: Perfil e Linguagens -->
+      <td align="center">
+        <a href="https://github.com/EachGuilherme">
+          <img 
+            src="https://github-readme-stats.vercel.app/api?username=EachGuilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
+            alt="Guilherme’s GitHub Stats" 
+            height="165"
+          />
+        </a>
+        <br>
+        <a href="https://github.com/EachGuilherme">
+          <img 
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=EachGuilherme&layout=compact&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
+            alt="Top Languages" 
+            height="165"
+          />
+        </a>
+      </td>
+      <!-- Coluna Direita: Espaço reservado para contribuições (opcional) -->
+      <td align="center">
+        <a href="https://github.com/EachGuilherme">
+          <img 
+            src="https://github-contributor-stats.vercel.app/api?username=EachGuilherme&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+            alt="GitHub Contributor Stats" 
+            height="340"
+          />
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
