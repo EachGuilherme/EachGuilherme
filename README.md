@@ -8,7 +8,7 @@
       <td align="center">
         <a href="https://github.com/EachGuilherme">
           <img 
-            src="https://github-readme-stats.vercel.app/api?username=EachGuilherme&theme=dark&hide_border=false&include_all_commits=false&count_private=false" 
+            src="https://nirzak-streak-stats.vercel.app/?user=EachGuilherme&theme=dark&hide_border=false" 
             alt="Guilherme’s GitHub Stats" 
             height="165"
           />
