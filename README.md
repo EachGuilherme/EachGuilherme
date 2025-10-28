@@ -2,13 +2,14 @@
 
 <div align="center">
   <a href="https://github.com/EachGuilherme">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=EachGuilherme&show_icons=true&theme=tokyonight&count_private=true" alt="Guilherme’s GitHub Stats" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=EachGuilherme&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
   <a href="https://github.com/EachGuilherme">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EachGuilherme&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EachGuilherme&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   </a>
 </div>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 🔭 Sobre Mim
